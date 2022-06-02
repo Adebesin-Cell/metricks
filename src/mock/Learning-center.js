@@ -1,0 +1,16 @@
+export const Activities = [
+  "General",
+  "Features",
+  "Building an affiliate campaign",
+  "One-time Access Affiliate Sign-up",
+  "Managing and optimizing affiliate campaign",
+  "Managing Marketing Assets",
+  "In-App Messaging Features",
+  "New user onboarding",
+  "Affiliate Payouts and commission",
+  "Troubleshooting",
+  "Account & Billing",
+  "Advanced technical features",
+  "New features",
+  "Announcements",
+];

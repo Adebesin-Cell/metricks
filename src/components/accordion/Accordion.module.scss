@@ -1,0 +1,15 @@
+.accordion {
+    display: flex;
+    flex-direction: column;
+
+    &__wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__list {
+        list-style-type: none;
+        display: grid;
+        // gap: 40px;
+    }
+}
